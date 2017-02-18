@@ -1,7 +1,7 @@
 # Hola mundo Spring MVC, estructura principal usando eclipse
 
 ## CRUD basico hecho en Spring MVC:
-Se solicita poder gestionar las operaciones basicas para un trabajador, donde se necesitara su nombre, apellidos, edad y un cargo a asignar en la empresa usando un `<select><option>CARGO</option></select>`.
+Se solicita poder gestionar las operaciones basicas para un trabajador, donde se necesitara su nombre, apellidos, edad y un cargo a asignar en la empresa usando un `<select><option>POSITION</option></select>`.
 El trabajador no podra cambiar de cargo desde la opcion de modificar (editar)
 
 ### Requisitos necesarios:
@@ -16,18 +16,18 @@ link: [Script de la base de datos](https://github.com/OneSevenDev/demoSpring/blo
 
 ** Imagen demostrativa de CREATE **
 
-![Imagen de muestra, crear trabajador en spring](https://raw.githubusercontent.com/OneSevenDev/demoSpring/master/images/create.jpg)
+![Imagen de muestra, crear trabajador en spring](https://raw.githubusercontent.com/OneSevenDev/CrudSpringSQLServer/master/images/create.jpg)
 
 ** Imagen demostrativa de READ **
 
-![Imagen de muestra, crear trabajador en spring](https://raw.githubusercontent.com/OneSevenDev/demoSpring/master/images/read.jpg)
+![Imagen de muestra, crear trabajador en spring](https://raw.githubusercontent.com/OneSevenDev/CrudSpringSQLServer/master/images/read.jpg)
 
 ** Imagen demostrativa de UPDATE **
 
-![Imagen de muestra, crear trabajador en spring](https://raw.githubusercontent.com/OneSevenDev/demoSpring/master/images/update.jpg)
+![Imagen de muestra, crear trabajador en spring](https://raw.githubusercontent.com/OneSevenDev/CrudSpringSQLServer/master/images/update.jpg)
 
 ** Imagen demostrativa de DELETE **
 
-![Imagen de muestra, crear trabajador en spring](https://raw.githubusercontent.com/OneSevenDev/demoSpring/master/images/delete.jpg)
+![Imagen de muestra, crear trabajador en spring](https://raw.githubusercontent.com/OneSevenDev/CrudSpringSQLServer/master/images/delete.jpg)
 
-* OrientaciÃ³n educativa - Saludos *
+* Orientación educativa - Saludos *
