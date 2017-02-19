@@ -16,7 +16,7 @@ link: [Script de la base de datos](https://github.com/OneSevenDev/demoSpring/blo
 ### ¿Comó lo instalo y ejecuto?
 - Usando en Bash de Git clonamos el proyecto
 - Abrimos Eclipse y ubicamos la carpeta en donde hemos clonado el proyecto
-- Configuramos el servidor [Tomcat Apeche](https://tomcat.apache.org/download-80.cgi) -> [Revisar aquí Proceso](https://youtu.be/Wt8prq-JTXA)
+- Configuramos el servidor [Tomcat Apache](https://tomcat.apache.org/download-80.cgi) -> [Revisar aquí Proceso](https://youtu.be/Wt8prq-JTXA)
 - Ejecutamos el proyecto sobre el servidor local
 
 ### Imagenes demostrativas del CRUD en Spring MVC
