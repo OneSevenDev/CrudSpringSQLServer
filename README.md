@@ -13,6 +13,12 @@ link: [Script de la base de datos](https://github.com/OneSevenDev/demoSpring/blo
   - Link donde explico que extension descargar: [Link de tutorial Hola mundo Spring](https://manuelguarnizblog.wordpress.com/2016/09/28/hola-mundo-con-spring-mvc/)
 - Usar el codigo como mejor sea, cualquier recomendación visitenme en [@Cruzemg95](https://twitter.com/cruzemg95)
 
+### ¿Comó lo instalo y ejecuto?
+- Usando en Bash de Git clonamos el proyecto
+- Abrimos Eclipse y ubicamos la carpeta en donde hemos clonado el proyecto
+- Configuramos el servidor [Tomcat Apeche](https://tomcat.apache.org/download-80.cgi) -> [Revisar aquí Proceso](https://youtu.be/Wt8prq-JTXA)
+- Ejecutamos el proyecto sobre el servidor local
+
 ### Imagenes demostrativas del CRUD en Spring MVC
 
 ** Imagen demostrativa de CREATE **
