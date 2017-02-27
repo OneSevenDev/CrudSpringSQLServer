@@ -37,6 +37,21 @@ public class HomeController {
 		return view;
 	}
 
+	@RequestMapping(value = "/list", method = RequestMethod.GET)
+	public ModelAndView list() {
+		ModelAndView view = null;
+		try {
+			ArrayList<Employee> list = EmployeeDao.Instance().listEmployee();
+			view = new ModelAndView("home");
+			view.addObject("list", list);
+		} catch (Exception ex) {
+			view = new ModelAndView("404");
+			ex.printStackTrace();
+		}
+
+		return view;
+	}
+	
 	@RequestMapping(value = "/agregar", method = RequestMethod.GET)
 	public ModelAndView Agregar() {
 		ModelAndView view = null;

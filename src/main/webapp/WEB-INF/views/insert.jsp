@@ -62,7 +62,7 @@
 						</select>
 						<br/>
 						<div class="nav navbar-right panel_toolbox">
-							<a href="${pageContext.request.contextPath}">Volver </a>
+							<a href="${pageContext.request.contextPath}/list">Volver </a>
 							<input class="btn btn-primary" type="submit" name="send" value="Agregar"/>
 						</div>
 
